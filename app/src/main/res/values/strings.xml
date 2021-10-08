@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PostBox</string>
+    <string name="facebook_app_id">526869435176847</string>
+    <string name="fb_login_protocol_scheme">fb526869435176847</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <style name="SplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splashscreen</item>
+    </style>
+</resources>
